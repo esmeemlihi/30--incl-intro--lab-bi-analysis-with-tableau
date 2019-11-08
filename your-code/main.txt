@@ -1,1 +1,5 @@
+Intro = 
 https://public.tableau.com/profile/esmee.mlihi#!/vizhome/Tablauexecersice/Sheet2
+
+advanced = 
+https://public.tableau.com/profile/esmee.mlihi#!/vizhome/lab-bi-analysis-with-tableau-esmee/Story8?publish=yes
